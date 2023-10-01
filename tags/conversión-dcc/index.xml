@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conversión DCC on My little railways</title>
+    <link>https://little-railways.es/tags/conversi%C3%B3n-dcc/</link>
+    <description>Recent content in conversión DCC on My little railways</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 06 Dec 2017 23:06:00 +0100</lastBuildDate><atom:link href="https://little-railways.es/tags/conversi%C3%B3n-dcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conversión digital (DCC) de una locomotora 269 escala N</title>
+      <link>https://little-railways.es/2017/12/conversion-digital-dcc-de-una.html</link>
+      <pubDate>Wed, 06 Dec 2017 23:06:00 +0100</pubDate>
+      
+      <guid>https://little-railways.es/2017/12/conversion-digital-dcc-de-una.html</guid>
+      <description>Esta semana me he dedicado a hacer la conversión a DCC de la locomotora RENFE 269 en escala N que compré el domingo en el mercadillo de modelismo del Museo del Ferrocarril.
+Lo primero es hacer un mantenimiento general de la locomotora. Si funciona erráticamente en AC, va a ser peor en DCC. Así que hay que limpiar el sistema de recogida de energía de la vía, comprobar que el motor funciona correctamente, limpiar la transmisión y ya de paso cambiar los aros de adherencia.</description>
+    </item>
+    
+  </channel>
+</rss>

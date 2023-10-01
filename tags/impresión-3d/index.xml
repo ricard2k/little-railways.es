@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>impresión 3D on My little railways</title>
+    <link>https://little-railways.es/tags/impresi%C3%B3n-3d/</link>
+    <description>Recent content in impresión 3D on My little railways</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 14 Jan 2018 18:19:00 +0100</lastBuildDate><atom:link href="https://little-railways.es/tags/impresi%C3%B3n-3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primera impresión por fotopolimerización</title>
+      <link>https://little-railways.es/2018/01/primera-impresion-por-fotopolimerizacion.html</link>
+      <pubDate>Sun, 14 Jan 2018 18:19:00 +0100</pubDate>
+      
+      <guid>https://little-railways.es/2018/01/primera-impresion-por-fotopolimerizacion.html</guid>
+      <description>Hace algún tiempo adquirí una impresora XYZ printing Nobel 1.0 en amazon.es, ya que tenía el gusanillo de hacer cosas en la maqueta a escala N que por su detalle y tamaño no permite el PLA ni el ABS extruido.
+Imágen de http://eu.xyzprinting.com/eu_es/Product/Nobel-1.0
+La tecnología de fotopolimerización usa una resina fotosensible que es solidificada por un rayo laser. La ventaja de este sistema es que es mucho mas preciso que la extrusión, permitiendo un nivel de detalle mucho mayor.</description>
+    </item>
+    
+    <item>
+      <title>Tope hormigón RENFE impreso en 3D</title>
+      <link>https://little-railways.es/2017/10/tope-hormigon-renfe-impreso-en-3d.html</link>
+      <pubDate>Thu, 19 Oct 2017 21:45:00 +0200</pubDate>
+      
+      <guid>https://little-railways.es/2017/10/tope-hormigon-renfe-impreso-en-3d.html</guid>
+      <description>Os voy a detallar la construcción de un tope para la maqueta con la impresora 3D de extrusión. Concretamente estos son los topes tal y como los recuerdo en la antigua estación de Madrid-Atocha.
+Lo primero, por supuesto es el diseño delante del PC. Como ya he comentado otras veces, uso sketchup para ello. La ventaja del tope es que es bastante sencillo (Bueno, yo lo he hecho sencillo), pero podríamos complicarlo bastante más, con la forma más ajustada al tope usado por Renfe.</description>
+    </item>
+    
+  </channel>
+</rss>
