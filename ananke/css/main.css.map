@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/rpr/work/blogs/little-railways",
+	"sourceRoot": "/home/runner/work/little-railways/little-railways",
 	"sources": [
 		"ananke/css/main.css"
 	],
